@@ -457,12 +457,12 @@
   height: 40px;
   width: 150px;
 }
-@media only screen and (min-width: 400px) {
+@media only screen and (max-width: 500px) {
  .imageblog {
   height: 10%;
   width: 100%;
   margin-top: 20px;
-}
+} 
 
 
 }
