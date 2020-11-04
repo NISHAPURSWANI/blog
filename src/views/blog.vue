@@ -121,12 +121,12 @@
         </p>
       </div>
       <div class="col-5">
-        <img src="../assets/Layer4.png" class="imageblog" />
+        <img src="../assets/img3.png" class="imageblog" />
       </div>
     </b-row>
     <b-row class="sheader">
       <div class="col-5">
-        <img src="../assets/lastp.png" class="imageblog" />
+        <img src="../assets/img4.png" class="imageblog" />
       </div>
       <div class="col-7">
         <h3 class="heado">4. Blog 4</h3>
@@ -195,12 +195,12 @@
         </p>
       </div>
       <div class="col-5">
-        <img src="../assets/Layer4.png" class="imageblog" />
+        <img src="../assets/Layer6.png" class="imageblog" />
       </div>
     </b-row>
     <b-row class="sheader">
       <div class="col-5">
-        <img src="../assets/lastp.png" class="imageblog" />
+        <img src="../assets/Layer7.png" class="imageblog" />
       </div>
       <div class="col-7">
         <h3 class="heado">6. Blog 6</h3>
@@ -269,12 +269,12 @@
         </p>
       </div>
       <div class="col-5">
-        <img src="../assets/Layer4.png" class="imageblog" />
+        <img src="../assets/img3.png" class="imageblog" />
       </div>
     </b-row>
     <b-row class="sheader">
       <div class="col-5">
-        <img src="../assets/lastp.png" class="imageblog" />
+        <img src="../assets/refimg1.png" class="imageblog" />
       </div>
       <div class="col-7">
         <h3 class="heado">8. Blog 8</h3>
@@ -343,12 +343,12 @@
         </p>
       </div>
       <div class="col-5">
-        <img src="../assets/Layer4.png" class="imageblog" />
+        <img src="../assets/img2.png" class="imageblog" />
       </div>
     </b-row>
     <b-row class="sheader">
       <div class="col-5">
-        <img src="../assets/lastp.png" class="imageblog" />
+        <img src="../assets/new.png" class="imageblog" />
       </div>
       <div class="col-7">
         <h3 class="heado">10. Blog 10</h3>
@@ -457,4 +457,14 @@
   height: 40px;
   width: 150px;
 }
+@media only screen and (min-width: 400px) {
+ .imageblog {
+  height: 10%;
+  width: 100%;
+  margin-top: 20px;
+}
+
+
+}
+
 </style>

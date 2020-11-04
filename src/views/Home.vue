@@ -279,4 +279,5 @@
 .slider {
   padding-top: 150px;
 }
+
 </style>
